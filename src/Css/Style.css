@@ -1,0 +1,54 @@
+.mak{
+    display: flex;
+}
+.div1{
+    height: 34em;
+    width: 500em;
+    background-color:azure;
+    padding: 5em 3em;
+    
+    
+}
+.div2{
+    height: 30em;
+    width: 50em;
+    background-color: aliceblue;
+
+}
+/* h1{
+    
+    text-align: center;
+}
+p{
+    text-align: center;
+    padding-left: 5em;
+}
+.btn{
+    margin-left: 5em;
+} */
+
+.cmain{
+    display: flex;
+    /* margin-top: 10em,; */
+    /* margin-bottom: 5em; */
+}
+.c1{
+    height: 10em;
+    width: 50em;
+    background-color:rgb(42, 230, 230);
+    margin: 3em 3em 3em 3em;
+    border-radius: 5em;
+    padding: 1em 1em 1em 1em;
+    text-align:center;
+    
+}
+.c2{
+    height: 10em;
+    width: 50em;
+    background-color:rgb(42, 230, 230);
+    margin: 3em 3em 3em 3em;
+    border-radius: 5em;
+    padding: 1em 1em 1em 1em;
+    text-align:center;
+
+}
