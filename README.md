@@ -1,0 +1,1 @@
+# slider_designe_architure_image_in_react_contact
